@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memory Maze</string>
+    <string name="memory_master">MAZE</string>
+    <string name="main_act">MEMORY MAZE</string>
+    <string name="_0">0</string>
+    <string name="start">Start</string>
+</resources>
